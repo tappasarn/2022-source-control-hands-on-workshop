@@ -98,7 +98,7 @@ At this point `commit` command has done its job, which is to store your changes 
 
 ### Modified Files
 
-_Git does not just track the creation and deletion of files. It also reports the changes that happen to the files that are already present in its history._
+Git does not just track the creation and deletion of files. It also reports the changes that happen to the files that are already present in its history.
 
 For example the content above is italic by mistake. You can easily fix them by removing `_...._` that is currently surrounded the content.
 
